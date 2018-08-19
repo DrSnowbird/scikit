@@ -4,7 +4,6 @@
 
 ##Components:
 - ref: https://github.com/davidshen84/docker-cassandra-learn
-- ref: https://github.com/davidshen84/docker-jupyter
 
 ## Pull the image from Docker Repository
 
